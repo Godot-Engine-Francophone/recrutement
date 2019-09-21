@@ -1,7 +1,7 @@
 ---
 name: Candidature
 about: Modèle pour poster sa candidature
-title: "[Candidature"
+title: "[Candidature] votre pseudo"
 labels: ''
 assignees: ''
 
