@@ -6,8 +6,10 @@ Il ne s'agit pas de maintenir/modérer un serveur discord mais plutôt de gérer
 Toute personne ayant atteint la majorité (18 ans minimum)
 
 # Comment postuler?
-Via les issue sur github. Répondez au question et envoyer votre candidature.
-Toutes les candidatures sont publiques
+1. Créez-vous un compte github
+2. Créez une nouvelle **Issues**
+3. Utilisez le modèle (_template_) **Candidature**
+4. Remplissez le formulaire puis envoyez.
 
 # Quand aura-t-on le verdict?
 A l'issue du vote
