@@ -9,5 +9,5 @@ Toute personne ayant atteint la majorité (18 ans minimum)
 Via les issue sur github. Répondez au question et envoyer votre candidature.
 Toutes les candidatures sont publiques
 
-# Quand aurat-on le verdict?
+# Quand aura-t-on le verdict?
 A l'issue du vote
