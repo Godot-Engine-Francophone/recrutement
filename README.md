@@ -7,7 +7,7 @@ Toute personne ayant atteint la majorité (18 ans minimum)
 
 # Comment postuler?
 1. Créez-vous un [compte github](https://github.com/join?source=header-home)
-2. Créez une nouvelle **Issues** et utilisez le modèle (_template_) **Candidature** (ou [cliquez ici](https://github.com/Godot-Engine-Francophone/recrutement/issues/new?assignees=&labels=&template=candidature.md&title=%5BCandidature%5D+votre+pseudo)
+2. Créez une nouvelle **Issues** et utilisez le modèle (_template_) **Candidature** (ou [cliquez ici](https://github.com/Godot-Engine-Francophone/recrutement/issues/new?assignees=&labels=&template=candidature.md&title=%5BCandidature%5D+votre+pseudo))
 4. Remplissez le formulaire puis envoyez.
 
 # Quand aura-t-on le verdict?
